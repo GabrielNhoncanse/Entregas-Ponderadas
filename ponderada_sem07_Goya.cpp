@@ -1,3 +1,4 @@
+// Para executar, é necessário compilar o código (pode-se usar `g++ ponderadaSem07.cpp -fopenmp`) e executar o arquivo compilado
 #include <iostream>
 #include <vector>
 #include <omp.h>
